@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://proeffico.com/wp-content/uploads/2022/12/Digital-Transformation.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/4b/e9/25/4be925fe03222c88b8ed302726914c2d.gif"  />
 </div>
 
 ###
