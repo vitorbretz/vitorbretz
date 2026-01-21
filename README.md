@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtlbmhydWR0M3pka2V2d2I4dzU4YjkyNW5vNmFjbXBjYWQ4N3V3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nc2slkPLPdpmWeCUZc/giphy.gif"  />
+  <img height="264" src="https://blog.runrun.it/wp-content/uploads/2017/10/03_1_arquiteto_de_cloud.png"  />
 </div>
 
 ###
@@ -114,6 +114,12 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=02ccff"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
