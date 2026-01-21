@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
+  <img height="140" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JjbmQzYWZrOGNnZ214ZW01dTMzMTlkdHBuNXV2anJvdjAyZTNoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XYsNjhFQlAHmQbRCdn/giphy.gif"  />
 </div>
 
 ###
