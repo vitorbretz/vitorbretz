@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="264" src="https://blog.runrun.it/wp-content/uploads/2017/10/03_1_arquiteto_de_cloud.png"  />
+  <img height="200" src="https://blog.ccmtecnologia.com.br/storage/blog/post/main/arquitetura-em-nuvem-visao-geral-para-cloud-computing-WExhS.jpeg"  />
 </div>
 
 ###
