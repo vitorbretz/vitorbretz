@@ -24,7 +24,7 @@
 - 🎓 <strong>Engenheiro de Software</strong><br>
 - 📚 Pós-graduando em <strong>DevOps & Cloud Platform Engineering com IA</strong> pela <strong>PUC Minas</strong><br>
 - ☁️ Cloud Platforms:  AWS, Microsoft Azure<br>
-- ⚙️ Experiência em Infraestrutura de TI, ambientes híbridos (on-premises e cloud) Firewall, suporte, Linux, Windows, virtualização, redes e monitoramento<br>
+- ⚙️ Experiências: Infraestrutura, ambientes híbridos (on-premises e cloud) Firewall, suporte, Linux, Windows, virtualização, redes e monitoramento<br>
 - 🛠️ <strong>Stack:</strong> Docker • Kubernetes • Terraform • Python • Git • GitHub Actions • CI/CD<br>
 - 🏅 <strong>Certificações</strong><br>
 &nbsp;  • AWS Certified Cloud Practitioner<br>
