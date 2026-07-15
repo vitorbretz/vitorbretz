@@ -28,8 +28,8 @@
 - 🛠️ <strong>Stack</strong>AWS • Azure • Docker • Kubernetes • Terraform • Python • Git • GitHub Actions • CI/CD<br>
 - 🏅 <strong>Certificações</strong><br>
 &nbsp;  • AWS Certified Cloud Practitioner<br>
-  • AWS Certified AI Practitioner<br>
-  • AWS Certified Developer – Associate<br><br>
+&nbsp;  • AWS Certified AI Practitioner<br>
+&nbsp;  • AWS Certified Developer – Associate<br><br>
 
 🚀 Apaixonado por automação, <strong>Infrastructure as Code (IaC)</strong>, observabilidade e melhoria contínua.
 </p>
