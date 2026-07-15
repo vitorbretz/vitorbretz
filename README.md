@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="left">🚀 Olá, eu sou Vitor Bretz!</h1>
+<h1 align="left"> I'am Vitor Bretz!</h1>
 
 ###
 
@@ -21,13 +21,12 @@
 ###
 
 <p align="left">
-  🎓 <strong>Engenheiro de Software</strong><br><br>
-
--📚 Pós-graduando em <strong>DevOps & Cloud Platform Engineering com IA</strong> pela <strong>PUC Minas</strong><br><br>
--☁️ Especializado em <strong>AWS</strong>, com foco em <strong>Cloud Computing</strong>, <strong>DevOps</strong> e <strong>Arquitetura de Soluções</strong><br><br>
--⚙️ Experiência em <strong>Infraestrutura de TI</strong>, ambientes híbridos (on-premises e cloud), Linux, Windows, virtualização, redes e monitoramento<br><br>
--🛠️ <strong>Stack</strong><br>
--AWS • Azure • Docker • Kubernetes • Terraform • Python • Git • GitHub Actions • CI/CD<br><br>
+-🎓 <strong>Engenheiro de Software</strong>
+-📚 Pós-graduando em <strong>DevOps & Cloud Platform Engineering com IA</strong> pela <strong>PUC Minas</strong>
+-☁️ Especializado em <strong>AWS</strong>, com foco em <strong>Cloud Computing</strong>, <strong>DevOps</strong> e <strong>Arquitetura de Soluções</strong>
+-⚙️ Experiência em <strong>Infraestrutura de TI</strong>, ambientes híbridos (on-premises e cloud), Linux, Windows, virtualização, redes e monitoramento
+-🛠️ <strong>Stack</strong>
+-AWS • Azure • Docker • Kubernetes • Terraform • Python • Git • GitHub Actions • CI/CD<
 -🏅 <strong>Certificações</strong><br>
 AWS Certified Cloud Practitioner<br>
 AWS Certified AI Practitioner<br>
