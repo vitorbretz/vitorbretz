@@ -25,7 +25,7 @@
 - 📚 Pós-graduando em <strong>DevOps & Cloud Platform Engineering com IA</strong> pela <strong>PUC Minas</strong><br>
 - ☁️ Especializado em <strong>AWS</strong>, com foco em <strong>Cloud Computing</strong>, <strong>DevOps</strong> e <strong>Arquitetura de Soluções</strong><br>
 - ⚙️ Experiência em <strong>Infraestrutura de TI</strong>, ambientes híbridos (on-premises e cloud), Linux, Windows, virtualização, redes e monitoramento<br>
-- 🛠️ <strong>Stack</strong>AWS • Azure • Docker • Kubernetes • Terraform • Python • Git • GitHub Actions • CI/CD<br>
+- 🛠️ <strong>Stack</strong> • AWS • Azure • Docker • Kubernetes • Terraform • Python • Git • GitHub Actions • CI/CD<br>
 - 🏅 <strong>Certificações</strong><br>
 &nbsp;  • AWS Certified Cloud Practitioner<br>
 &nbsp;  • AWS Certified AI Practitioner<br>
