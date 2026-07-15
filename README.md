@@ -31,9 +31,7 @@
 &nbsp;  • AWS Certified AI Practitioner<br>
 &nbsp;  • AWS Certified Developer – Associate<br><br>
 
-🚀 Apaixonado por automação, <strong>Infrastructure as Code (IaC)</strong>, observabilidade e melhoria contínua.
 </p>
-
 ###
 
 <h3 align="left">Connect with me</h3>
