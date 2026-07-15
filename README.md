@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://blog.ccmtecnologia.com.br/storage/blog/post/main/arquitetura-em-nuvem-visao-geral-para-cloud-computing-WExhS.jpeg"  />
-</div>
-
-###
-
 <h1 align="center">Welcome to my profile!</h1>
 
 ###
