@@ -27,7 +27,7 @@
 - ⚙️ Experiência em <strong>Infraestrutura de TI</strong>, ambientes híbridos (on-premises e cloud), Linux, Windows, virtualização, redes e monitoramento<br>
 - 🛠️ <strong>Stack</strong>AWS • Azure • Docker • Kubernetes • Terraform • Python • Git • GitHub Actions • CI/CD<br>
 - 🏅 <strong>Certificações</strong><br>
-  • AWS Certified Cloud Practitioner<br>
+&nbsp;  • AWS Certified Cloud Practitioner<br>
   • AWS Certified AI Practitioner<br>
   • AWS Certified Developer – Associate<br><br>
 
