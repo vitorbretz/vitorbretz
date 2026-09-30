@@ -2,7 +2,7 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px;">
   <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif" width="45" height="45" alt="cloud animation" style="display: block; margin: 0;" />
 
   <a href="https://git.io/typing-svg" style="display: block; margin: 0; transform: translateY(4px);">
