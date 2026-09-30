@@ -5,7 +5,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
   <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif" width="45" height="45" alt="cloud animation" style="display: inline-block; margin: 0; vertical-align: middle;" />
   
-  <a href="https://git.io/typing-svg" style="display: inline-block; margin: 0; vertical-align: middle;">
+  <a href="https://git.io/typing-svg" style="display: inline-block; margin: 0 0 8px 0; vertical-align: middle;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=02CCFF&center=true&vCenter=true&width=650&height=80&lines=Hello%2C+I'm+Vitor+Bretz;Building+scalable+solutions+with+Cloud+and+DevOps" alt="Typing animation" style="border: none; display: inline-block; margin: 0; vertical-align: middle;" />
   </a>
   
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left"><span style="color: #02CCFF;">About me</span></h2>
+<h2 align="left" style="color: #02CCFF;">About me</h2>
 
 ###
 
@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="arcocd logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo" />
   <img width="12" />
