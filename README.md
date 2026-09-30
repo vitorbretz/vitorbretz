@@ -11,7 +11,7 @@
       <td style="border: none; padding: 0 20px; vertical-align: middle;">
         <a href="https://git.io/typing-svg">
           <img
-            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=2000&color=02CCFF&center=true&vCenter=true&width=900&height=80&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions+with+Cloud;Welcome+to+my+GitHub!"
+            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=2000&color=02CCFF&center=true&vCenter=true&width=900&height=80&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+solutions+with+Cloud;Welcome+to+my+GitHub!"
             alt="Typing animation"
           >
         </a>
