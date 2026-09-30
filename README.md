@@ -5,16 +5,19 @@
 <div align="center">
   <table style="border: none; margin: 0 auto;">
     <tr>
-      <td style="border: none; padding: 0; vertical-align: middle; text-align: center; width: 50px;">
-        <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/assets/cloud.gif" height="50" alt="cloud animation">
+      <td style="border: none; padding: 0; vertical-align: middle; text-align: center; width: 60px;">
+        <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/assets/cloud.gif" width="60" height="60" alt="cloud animation">
       </td>
       <td style="border: none; padding: 0 20px; vertical-align: middle;">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=02CCFF&center=true&vCenter=true&width=800&height=70&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions+with+AWS%2C+DevOps+and+Automation;Welcome+to+my+GitHub!" alt="Typing animation">
+          <img
+            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=2000&color=02CCFF&center=true&vCenter=true&width=900&height=80&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions+with+AWS%2C+DevOps+and+Automation;Welcome+to+my+GitHub!"
+            alt="Typing animation"
+          >
         </a>
       </td>
-      <td style="border: none; padding: 0; vertical-align: middle; text-align: center; width: 50px;">
-        <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/assets/cloud.gif" height="50" alt="cloud animation">
+      <td style="border: none; padding: 0; vertical-align: middle; text-align: center; width: 60px;">
+        <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/assets/cloud.gif" width="60" height="60" alt="cloud animation">
       </td>
     </tr>
   </table>
