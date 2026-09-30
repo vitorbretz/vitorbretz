@@ -18,17 +18,21 @@
 
 ###
 
+
 <p align="left">
-- 🎓 <strong>Engenheiro de Software</strong><br>
-- 📚 Pós-graduando em <strong>DevOps & Cloud Platform Engineering com IA</strong> pela <strong>PUC Minas</strong><br>
-- ☁️ <strong>Cloud Platforms:</strong> AWS, Microsoft Azure<br>
-- ⚙️ <strong>Experiências:</strong> Infraestrutura, ambientes híbridos (on-premises e cloud), Firewall, Linux, Windows, virtualização, redes e monitoramento<br>
-- 🛠️ <strong>Stack:</strong> Docker • Kubernetes • Terraform • Python • Git • GitHub Actions • CI/CD<br>
-- 🏅 <strong>Certificações</strong><br>
-&nbsp; • AWS Certified Cloud Practitioner<br>
-&nbsp; • AWS Certified AI Practitioner<br>
-&nbsp; • AWS Certified Developer – Associate<br><br>
+  🎓 <strong>Education:</strong> B.Sc. in Software Engineering<br>
+  📚 <strong>Postgraduate:</strong> DevOps & Cloud Platform Engineering with AI | PUC Minas<br>
+  ☁️ <strong>Cloud Platforms:</strong> AWS • Microsoft Azure<br>
+  🏗️ <strong>Background:</strong> IT Infrastructure • Hybrid Environments • Linux • Windows • Networking • Virtualization • Firewalls • Monitoring<br>
+  ⚙️ <strong>DevOps Stack:</strong> Docker • Kubernetes • Terraform • Python • Git • GitHub Actions • CI/CD<br>
+  🎯 <strong>Career Focus:</strong> DevOps Engineering | Cloud Engineering<br><br>
+
+  🏅 <strong>AWS Certifications</strong><br>
+  &nbsp;&nbsp; • AWS Certified Developer – Associate<br>
+  &nbsp;&nbsp; • AWS Certified AI Practitioner<br>
+  &nbsp;&nbsp; • AWS Certified Cloud Practitioner<br>
 </p>
+
 
 ###
 
