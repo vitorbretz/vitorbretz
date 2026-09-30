@@ -8,6 +8,10 @@
 </p>
 
 <br>
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dpMjgyMm00amZkemhpYmNhdnNmdmgwNmJ0M3RnYmU3N2wzNW1iaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" height="auto" frameBorder="0">
+</div>
+<br>
 
 
 
