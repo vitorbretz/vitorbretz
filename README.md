@@ -27,16 +27,6 @@
 
 <h2 align="left">Cloud Engineer | DevOps Engineer </h2>
 
-###
-
-<h1 align="center">Building scalable cloud solutions with AWS, DevOps and Automation ☁️</h1>
-
-###
-
-<h1 align="left"> I'am Vitor Bretz!</h1>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
