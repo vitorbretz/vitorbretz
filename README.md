@@ -2,10 +2,10 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 2px;">
   <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif" width="45" height="45" alt="cloud animation" style="display: block; margin: 0;" />
 
-  <a href="https://git.io/typing-svg" style="display: block; margin: 0; transform: translateY(4px);">
+  <a href="https://git.io/typing-svg" style="display: block; margin: 0; transform: translateY(2px);">
     
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=02CCFF&center=true&vCenter=true&width=650&height=80&lines=Hello%2C+I'm+Vitor+Bretz;Building+scalable+solutions+with+Cloud+and+DevOps;Welcome+to+my+GitHub!" alt="Typing animation" style="display: block; border: none; margin: 0;" />
 
