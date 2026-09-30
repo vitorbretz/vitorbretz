@@ -16,12 +16,6 @@
 </div>
 
 <br>
-<br>
-
-<h2 align="center">☁️ Cloud Engineer | DevOps Engineer ☁️</h2>
-
-<br>
-
 
 ###
 
