@@ -1,18 +1,23 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=65&section=header&reversal=true&color=02ccff" />
 
 <br>
 
 <div align="center">
-
-  <img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=02CCFF&center=true&vCenter=true&width=1050&height=70&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions+with+AWS%2C+DevOps+and+Automation;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
-
-  <img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40">
-
+  <table style="border: none; margin: 0 auto;">
+    <tr>
+      <td style="border: none; padding: 0; vertical-align: middle; text-align: center; width: 50px;">
+        <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/assets/cloud.gif" height="50" alt="cloud animation">
+      </td>
+      <td style="border: none; padding: 0 20px; vertical-align: middle;">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=02CCFF&center=true&vCenter=true&width=800&height=70&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions+with+AWS%2C+DevOps+and+Automation;Welcome+to+my+GitHub!" alt="Typing animation">
+        </a>
+      </td>
+      <td style="border: none; padding: 0; vertical-align: middle; text-align: center; width: 50px;">
+        <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/assets/cloud.gif" height="50" alt="cloud animation">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -125,7 +130,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=02ccff"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlignY=50&descAlign=50&rotate=180" />
 </div>
 
 ###
