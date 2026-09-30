@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=02CCFF&center=true&vCenter=true&width=1050&height=70&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions+with+AWS%2C+DevOps+and+Automation+%E2%98%81%EF%B8%8F;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=02CCFF&center=true&vCenter=true&width=1050&height=70&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions+with+AWS%2C+DevOps+and+Automation;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 
   <img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40">
