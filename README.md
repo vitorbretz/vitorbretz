@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/cloud.gif"
+    src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif"
     width="55"
     height="55"
     alt="cloud animation"
@@ -13,14 +13,14 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=6500&pause=2500&color=02CCFF&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions+with+AWS%2C+DevOps+and+Automation;Welcome+to+my+GitHub!"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1500&color=02CCFF&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Vitor+Bretz!;Cloud+Engineer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions+with+AWS%2C+DevOps+and+Automation;Welcome+to+my+GitHub!"
       alt="Typing animation"
       valign="middle"
     />
   </a>
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/cloud.gif"
+    src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif"
     width="55"
     height="55"
     alt="cloud animation"
@@ -29,6 +29,7 @@
 </p>
 
 <br>
+
 ###
 
 
