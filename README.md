@@ -1,13 +1,15 @@
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=65&section=header&reversal=true&color=02ccff" />
 
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif" width="45" height="45" align="absmiddle" alt="Cloud animation" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=4000&amp;pause=1500&amp;color=02CCFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=80&amp;lines=Hello%2C+I'm+Vitor+Bretz;Building+scalable+solutions+with+Cloud+and+DevOps;Welcome+to+my+GitHub!" width="650" height="80" align="absmiddle" alt="Typing animation" /></a><img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif" width="45" height="45" align="absmiddle" alt="Cloud animation" />
+<img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif" width="45" height="45" align="absmiddle" alt="Cloud animation" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=4000&amp;pause=1500&amp;color=02CCFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=80&amp;lines=Hello%2C+I'm+Vitor+Bretz;Building+scalable+solutions+with+Cloud+and+DevOps;Welcome+to+my+GitHub!" width="650" height="80" align="absmiddle" alt="Typing animation" /><img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif" width="45" height="45" align="absmiddle" alt="Cloud animation" />
 </p>
 
 <br>
+
 
 ###
 
