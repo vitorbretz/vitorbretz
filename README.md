@@ -1,3 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
+<div align="center">
+<img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F711AD&center=true&vCenter=true&width=750&lines=HELLO%2C+I'm+Grazielle+;I'm+from+Brazil;I'm+studying+Software+Developer;Be+Welcome!++%3A)" alt="Typing SVG" /></a><img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40">
+</div>
+ <br>
+ <br>
+ <br>
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=65&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=02ccff"  />
 </div>
