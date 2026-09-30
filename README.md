@@ -19,7 +19,6 @@
 
 ###
 
-<h2 align="left">Cloud Engineer | DevOps Engineer </h2>
 
 <h2 align="left">About me</h2>
 
