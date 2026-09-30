@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left" style="color: #02CCFF;">About me</h2>
+<h2 align="left"><font color="#02CCFF">About me</font></h2>
 
 ###
 
