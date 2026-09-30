@@ -2,40 +2,21 @@
 
 <br>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-spacing: 0; background: transparent; border: none;">
-  <tr>
-    <td align="right" valign="middle" style="border: none; padding: 0;">
-      <img
-        src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif"
-        width="45"
-        height="45"
-        alt="cloud animation"
-      />
-    </td>
-    <td align="center" valign="middle" style="border: none; padding: 0;">
-      <a href="https://git.io/typing-svg">
-        <img
-          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1500&color=02CCFF&center=true&vCenter=true&width=650&height=80&lines=Hello%2C+I'm+Vitor+Bretz;Building+scalable+solutions+with+Cloud+and+DevOps"
-          alt="Typing animation"
-        />
-      </a>
-    </td>
-    <td align="left" valign="middle" style="border: none; padding: 0;">
-      <img
-        src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif"
-        width="45"
-        height="45"
-        alt="cloud animation"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif" width="45" height="45" alt="cloud animation" style="display: inline-block; margin: 0 10px;" />
+  
+  <a href="https://git.io/typing-svg" style="display: inline-block; margin: 0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=02CCFF&center=true&vCenter=true&width=650&height=80&lines=Hello%2C+I'm+Vitor+Bretz;Building+scalable+solutions+with+Cloud+and+DevOps" alt="Typing animation" style="border: none; display: inline-block; margin: 0;" />
+  </a>
+  
+  <img src="https://raw.githubusercontent.com/vitorbretz/vitorbretz/main/gif.gif" width="45" height="45" alt="cloud animation" style="display: inline-block; margin: 0 10px;" />
+</div>
 
 <br>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left" style="color: #02CCFF;">About me</h2>
 
 ###
 
