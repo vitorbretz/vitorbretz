@@ -28,9 +28,11 @@
   🎯 <strong>Career Focus:</strong> DevOps Engineering | Cloud Engineering<br><br>
 
   🏅 <strong>AWS Certifications</strong><br>
+  &nbsp;&nbsp; • AWS Certified Solutions Architect – Associate<br>
   &nbsp;&nbsp; • AWS Certified Developer – Associate<br>
   &nbsp;&nbsp; • AWS Certified AI Practitioner<br>
   &nbsp;&nbsp; • AWS Certified Cloud Practitioner<br>
+  
 </p>
 
 
